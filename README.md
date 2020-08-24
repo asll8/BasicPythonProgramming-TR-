@@ -1,2 +1,2 @@
 # BasicPythonProgramming-TR-
-Türkçe olarak verdiğim 7 günlük eğitim ders notları.
+Basic Python Programming Course which is given by me in Turkish.
